@@ -12,6 +12,10 @@ body {
 	font-size: 1.6em; */
 }
 
+a:link {
+    text-decoration: none;
+}
+
 .container {
 	max-width: 900px;
 }
