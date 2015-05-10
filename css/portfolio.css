@@ -7,8 +7,20 @@
 body {
 	font: Kalimati, Verdana, sans-serif;
 	color: #666;
+	/*max-width: 900px;*/
 	/* line-height: 2.0;
 	font-size: 1.6em; */
+}
+
+.container {
+	max-width: 900px;
+}
+.header {
+	/*background-image: url("../images/green-valley.jpg");*/
+	margin-top: 20px;
+	color: #FFF;
+	background-image: url("../images/nature-1000_400.jpg");
+	text-shadow: 1px 1px #E6E6E6;
 }
 
 .list-box {
